@@ -1,0 +1,10 @@
+*__pycache__
+_private
+*.ipynb_checkpoints
+*.mypy_cache
+*.venv
+*.vscode
+
+data/raw/*
+data/parsed/*
+data/lemmatized/*

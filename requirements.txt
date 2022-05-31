@@ -1,0 +1,9 @@
+codetiming
+matplotlib
+morfeusz2
+numpy
+pandas
+python-dotenv
+regex
+statsmodels
+tqdm
